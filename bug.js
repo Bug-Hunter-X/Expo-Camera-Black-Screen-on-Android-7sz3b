@@ -1,0 +1,1 @@
+This bug occurs when using the Expo `Camera` API with certain Android devices.  The camera preview fails to display, showing only a black screen. This often happens after the app has been in the background for a period of time or after a device restart.  The issue is not consistently reproducible across all devices.
